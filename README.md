@@ -1,13 +1,13 @@
 
 # Assignment 1 – Data Analysis Using NumPy and Pandas
 
-## Project Overview
+## 📌 Project Overview
 
 This project focuses on performing data analysis using **NumPy and Pandas**, two essential Python libraries widely used in Data Science.
 
-The assignment demonstrates numerical computations, data manipulation, indexing, slicing, filtering, and aggregation techniques using real-world temperature and transaction datasets.
+The assignment demonstrates numerical computations, data manipulation, indexing, slicing, filtering, and aggregation techniques using temperature and transaction datasets.
 
-## Objectives
+## 🎯 Objectives
 
 - Work with NumPy arrays for numerical computations.
 - Create and manipulate Pandas Series and DataFrames.
@@ -17,14 +17,18 @@ The assignment demonstrates numerical computations, data manipulation, indexing,
 - Explore and manipulate transaction datasets using Pandas.
 - Perform statistical calculations and data aggregation.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- **Programming Language:** Python
-- **Libraries:** NumPy, Pandas
-- **Development Environment:** Jupyter Notebook / Google Colab
-- **Version Control:** Git and GitHub
+| Technology | Description |
+|---|---|
+| Python | Programming Language |
+| NumPy | Numerical Computing |
+| Pandas | Data Manipulation and Analysis |
+| Jupyter Notebook | Development Environment |
+| Google Colab | Cloud-Based Notebook |
+| Git & GitHub | Version Control |
 
-## Assignment Tasks
+## 📚 Assignment Tasks
 
 ### 1. NumPy Array Operations
 
@@ -90,22 +94,22 @@ The dataset contains 10 transactions with the following columns:
 - Creating a discount column.
 - Removing records and columns.
 
-## Python Libraries
+## 💻 Installation and Setup
 
-Install the required libraries using:
+Install the required Python libraries:
 
 ```bash
 pip install numpy pandas
 ```
 
-Import the libraries:
+Import the libraries into your Python notebook:
 
 ```python
 import numpy as np
 import pandas as pd
 ```
 
-## Key Learning Outcomes
+## 📈 Key Learning Outcomes
 
 Through this assignment, I gained practical experience in:
 
@@ -116,15 +120,22 @@ Through this assignment, I gained practical experience in:
 - Applying conditional filtering techniques.
 - Exploring and manipulating structured datasets.
 - Performing basic statistical analysis and aggregation.
+- Developing foundational data analysis skills using Python.
 
-## Conclusion
+## 📝 Conclusion
 
 This assignment provided hands-on experience with NumPy and Pandas, strengthening my understanding of Python-based data analysis.
 
 It also helped me develop foundational skills in data manipulation, numerical computation, and exploratory data analysis (EDA), which are essential for progressing towards a career in Data Science.
 
----
+## 👨‍💻 Author
 
-**Author:** A Kameshraj
+**A Kameshraj**
 
 **Project:** NumPy and Pandas – Assignment 1
+
+**Domain:** Data Science
+
+---
+
+⭐ *This project is part of my Data Science learning journey.*
